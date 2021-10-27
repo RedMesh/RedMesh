@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedMesh
-- 👀 I’m interested in business managment systems
+- 👀 I’m interested in Managment Information Systems
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on accounting and managment software
+- 💞️ I’m looking to collaborate on Accounting, Project Managment, CRM, and POS Systems
 - 📫 How to reach me on twitter at bukh_sal & instagram at bukh.sal
 
 <!---
