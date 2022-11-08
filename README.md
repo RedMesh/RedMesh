@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bukh-sal
-- 👀 I’m interested in Managment Information Systems
+- 👀 I’m interested in Managment Systems
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Accounting, Project Managment, CRM, and POS Systems
+- 💞️ I’m looking to collaborate on Accounting, Sales, Project Managment, and CRM Systems
 - 📫 You can reach me on twitter at bukh_sal & instagram at bukh.sal
 
 <!---
